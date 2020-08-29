@@ -1,0 +1,1 @@
+insert into Recipe_table values(10,'Indian','Some direction here','some ingredient','Chicken');
